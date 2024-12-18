@@ -39,6 +39,8 @@ This is a casino-style Plinko game with a graphical interface using Python and P
 4. **Repeat:**
    Adjust your bet or deposit as desired and press SPACE to play again.
 
+<img src="pic.png" width="800" height="512">
+
 ## Technical Details
 
 - **Language and Library:**  
